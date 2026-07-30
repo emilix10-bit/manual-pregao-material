@@ -23,9 +23,9 @@
     É necessário indicar, entre os responsáveis, um servidor como responsável pela publicação na Imprensa Nacional que deverá ser cadastrado com a Imprensa Nacional para essa função.
 
 !!! warning "ATENÇÃO"
-    * Devem ser inseridos, no mínimo, os seguintes responsáveis:<br>
-    * &bull; <strong>Pregão:</strong> pregoeiro<br>
-    * &bull; <strong>Concorrência e Concurso:</strong> Agente de contratação ou membro de comissão de contratação
+    Devem ser inseridos, no mínimo, os seguintes responsáveis:<br>
+    * **Pregão:** pregoeiro
+    * **Concorrência e Concurso:** Agente de contratação ou membro de comissão de contratação
 
 
 <div style="text-align: right; margin: 20px 0;">
