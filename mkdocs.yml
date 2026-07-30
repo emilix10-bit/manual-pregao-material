@@ -1,7 +1,7 @@
 site_name: Manual Compras.gov.br - Pregão Eletrônico
 
 theme:
-  name: readthedocs
+  name: material
 
 markdown_extensions:
   - md_in_html
