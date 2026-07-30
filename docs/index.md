@@ -15,11 +15,9 @@ Os pregões das empresas estatais poderão ser realizados em processos previstos
 Neste tutorial, abordamos o <strong>passo a passo para publicação de um pregão eletrônico no Novo Divulgação de Compras (Novo DC) partindo de um novo processo</strong>. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), [clique aqui](02-dados-basicos-da-contratacao.md) e vá direto para a segunda etapa deste tutorial.
 
 
-<div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
-  <strong>OBSERVAÇÃO:</strong> Contratações no Sistema de Registro de Preços estão no manual <strong>CONTRATAÇÕES SRP</strong>.
-</div>
+!!! info "OBSERVAÇÃO"
+    Contratações no Sistema de Registro de Preços estão no manual <strong>CONTRATAÇÕES SRP</strong>.
 
----
 
 <span style="font-size: 1.5em; font-weight: bold;">Formatos de Visualização</span>
 
