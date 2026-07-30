@@ -8,7 +8,6 @@
 
 Existem duas formas de incluir itens na sua contratação: diretamente pelo **Catálogo integrado** ou por meio do upload de uma **Planilha Eletrônica**.
 
----
 
 ## Opção A: Inclusão de Itens pelo Catálogo
 
@@ -29,13 +28,9 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
 
 ![Salvar unidade e valor unitário](Imagens/22-Inclusao-de-itens-Catalogo.png)
 
-<br>
+!!! tip "NOTA"
+    Repita os passos 18 a 21 para todos os itens de sua contratação.
 
-<div style="display: block; background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
-  <strong>NOTA:</strong> Repita os passos 18 a 21 para todos os itens de sua contratação.
-</div>
-
-<br>
 
 **Passo 22:** Depois de inseridos todos os itens, clique no carrinho localizado no canto superior direito.
 
@@ -51,7 +46,6 @@ Pronto. Seus itens foram adicionados a sua contratação.
 
 *Para finalizar a configuração de seus itens vá para o passo 28.*
 
----
 
 ## Opção B: Inclusão de Itens por Planilha Eletrônica
 
@@ -61,13 +55,10 @@ Siga os passos abaixo para adicionar itens usando uma planilha eletrônica.
 
 ![Upload de itens por planilha](Imagens/26-Inclusao-de-itens-Planilha.png)
 
-<br>
 
-<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> O sistema apresentará um link com modelo de planilha para ser seguido. É importante que esse modelo seja seguido para a correta importação dos itens.
-</div>
+!!! warning "ATENÇÃO"
+    O sistema apresentará um link com modelo de planilha para ser seguido. É importante que esse modelo seja seguido para a correta importação dos itens.
 
-<br>
 
 ![Modelo de planilha de itens](Imagens/27-Inclusao-de-itens-Planilha.png)
 
@@ -95,7 +86,6 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 ![Retornar para a tela da contratação](Imagens/33-Inclusao-de-itens-Planilha.png)
 
----
 
 ## Configuração dos Itens e Benefícios
 
@@ -133,13 +123,10 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 ![Múltiplos locais de entrega](Imagens/40-1-adicionar-mais-locais-de-entrega.png)
 
-<br>
 
-<div style="background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> Você também poderá atribuir um local de entrega a vários itens simultaneamente.
-</div>
+!!! warning "ATENÇÃO"
+    Você também poderá atribuir um local de entrega a vários itens simultaneamente.
 
-<br>
 
 **Passo 34:** Para isso, na página inicial dos itens da contratação, selecione os itens que têm o mesmo endereço de entrega, clicando na caixa ao lado da descrição dos itens e clique em “Adicionar Locais de Entrega”.
 
@@ -184,13 +171,10 @@ Selecionando a opção de **Benefício Cota Reservada**, o item em edição ser�
 
 ![Benefício Cota Reservada](Imagens/75-beneficios-da-compra.png)
 
-<br>
 
-<div style="background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar.
-</div>
+!!! warning "ATENÇÃO"
+    O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar.
 
-<br>
 
 Para definir o quantitativo de cada uma das cotas, retorne para a aba “Locais de Entrega”.
 
@@ -221,13 +205,10 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
 
 ![Exigência de conteúdo nacional](Imagens/85-beneficios-da-compra.png)
 
----
 
-<div style="background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
-  <strong>NOTA:</strong> Repita os passos acima para todos os itens de sua contratação.
-</div>
-
-<br>
+!!! tip "NOTA"
+    Repita os passos os passos acima para todos os itens de sua contratação.
+    
 
 ## Formação de Grupos de Itens
 
