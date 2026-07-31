@@ -6,19 +6,19 @@
 
 # Preenchimento de dados da contratação
 
-**Passo 6:** Encontre a contratação desejada na aba **Contratações Minhas Uasg** e clique em “Editar”.
+### Passo 6: Encontre a contratação desejada na aba **Contratações Minhas Uasg** e clique em “Editar”.
 
 ![Tela 06](Imagens/06-Editar-contratacao.png)
 
 
-**Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo, o número de controle interno da UASG e, no **Tipo de contratação**, escolha a modalidade de licitação.
+### Passo 7: Na aba **Dados Básicos da Contratação**, preencha o número do processo, o número de controle interno da UASG e, no **Tipo de contratação**, escolha a modalidade de licitação.
 ![Imagem das datas estimadas](Imagens/07-Modalidade.png)
 
 !!! info "OBSERVAÇÃO"
     O número de controle interno da UASG tem por objetivo permitir que cada órgão tenha seu controle de processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é opcional.
 
 
-**Passo 8:** Para definir o **Fundamento legal** da contratação, clique no ícone de lápis.
+### Passo 8: Para definir o **Fundamento legal** da contratação, clique no ícone de lápis.
 
 ![Tela 08](Imagens/08-fundamento-legal.png)
 
@@ -31,17 +31,17 @@ Detalhe os fundamentos legais disponíveis e, quando localizar a opção adequad
 ![Tela 10](Imagens/10-fundamento-legal.png)
 
 
-**Passo 9:** Em **Modo de disputa**, selecione a opção de acordo com a definição do edital – *aberto, fechado, aberto/fechado ou fechado/aberto*.
+### Passo 9: Em **Modo de disputa**, selecione a opção de acordo com a definição do edital – *aberto, fechado, aberto/fechado ou fechado/aberto*.
 
 ![Tela 11](Imagens/11-modo-de-disputa.png)
 
 Os modos de disputa exibidos em tela variam de acordo com a modalidade da licitação. 
 
 
-**Passo 10:** Em **Critério de julgamento**, o sistema trará a opção padrão (*default*) “Menor preço/maior desconto” por se tratar de pregão.
+### Passo 10: Em **Critério de julgamento**, o sistema trará a opção padrão (*default*) “Menor preço/maior desconto” por se tratar de pregão.
 
 
-**Passo 11:** Em **Forma de realização**, selecione entre “eletrônico” e “presencial”.
+### Passo 11: Em **Forma de realização**, selecione entre “eletrônico” e “presencial”.
 
 ![Tela 12](Imagens/12-forma-de-realizacao.png)
 
@@ -50,17 +50,17 @@ Os modos de disputa exibidos em tela variam de acordo com a modalidade da licita
     * A opção **Presencial** resultará na realização de sessão pública presencial e no posterior registro de resultados.
     
 
-**Passo 12:** Selecione o **Tipo de objeto** a ser licitado na lista apresentada no sistema. Essa opção ajudará o sistema a definir seus prazos mínimos de publicidade.
+### Passo 12: Selecione o **Tipo de objeto** a ser licitado na lista apresentada no sistema. Essa opção ajudará o sistema a definir seus prazos mínimos de publicidade.
 
 ![Tela 13](Imagens/13-tipo-de-objeto.png)
 
 
-**Passo 13:** Para obras e serviços de engenharia, o sistema apresentará o campo para informar o **Regime de execução** do contrato.
+### Passo 13: Para obras e serviços de engenharia, o sistema apresentará o campo para informar o **Regime de execução** do contrato.
 
 ![Tela 14](Imagens/14-regime-de-execucao.png)
 
 
-**Passo 14:** Preencha os campos de **Categoria** e **Moeda da Compra**. As demais informações na tela correspondem às que foram inseridas na criação da contratação e poderão ser editadas caso seja necessário. 
+### Passo 14: Preencha os campos de **Categoria** e **Moeda da Compra**. As demais informações na tela correspondem às que foram inseridas na criação da contratação e poderão ser editadas caso seja necessário. 
 
 ![Tela 15](Imagens/15-dados-da-contratacao.png)
 
