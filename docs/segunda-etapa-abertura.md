@@ -8,13 +8,13 @@
 Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informações essenciais para a publicação do certame.
 
 Aqui você vai ver como:
-- Incluir dados básicos da contratação
-- Incluir dados adicionais da contratação
-- Incluir itens, formar grupos e adicionar benefícios
-- Incluir anexos
-- Incluir responsáveis
+- [Incluir dados básicos da contratação](02-dados-basicos.md)
+- [Incluir dados adicionais da contratação](03-dados-adicionais.md)
+- [Incluir itens, formar grupos e adicionar benefícios](04-itens-grupos.md)
+- [Incluir anexos](05-anexos.md)
+- [Incluir responsáveis](06-responsaveis.md)
 
-Use o menu ao lado para navegar entre essas etapas.
+Você pode usar o menu ao lado para navegar entre essas etapas.
 
 <br>
 <div style="text-align: right; margin: 15px 0;">
