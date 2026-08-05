@@ -104,3 +104,11 @@
 .wy-menu-vertical p.caption {
     margin-bottom: 8px !important;
 }
+
+/* Remove as linhas separadoras injetadas automaticamente na visão de impressão */
+.print-site-plugin-page-break,
+.md-typeset hr,
+[data-md-component="content"] hr {
+  display: none !important;
+  border: none !important;
+}
