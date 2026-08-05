@@ -12,48 +12,41 @@ Agora, **empresas estatais podem realizar pregões eletrônicos ou presenciais f
 
 Os pregões das empresas estatais poderão ser realizados em processos previstos no Planejamento e Gerenciamento de Contratações (PGC) ou em novo processo de compra.  
 
-Neste tutorial, abordamos o <strong>passo a passo para publicação de um pregão eletrônico no Novo Divulgação de Compras (Novo DC) partindo de um novo processo</strong>. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), [clique aqui](02-divulgar-contratacao.md) e vá direto para a segunda etapa deste tutorial.
+Neste tutorial, abordamos o <strong>passo a passo para publicação de um pregão eletrônico no Novo Divulgação de Compras (Novo DC) partindo de um novo processo</strong>. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), [clique aqui](02-dados-basicos-da-contratacao.md) e vá direto para a segunda etapa deste tutorial.
 
 
-<div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
-  <strong>OBSERVAÇÃO:</strong> Contratações no Sistema de Registro de Preços estão no manual <strong>CONTRATAÇÕES SRP</strong>.
-</div>
+!!! info "OBSERVAÇÃO"
+    Contratações no Sistema de Registro de Preços estão no manual <strong>CONTRATAÇÕES SRP</strong>.
 
----
-
-# PROCEDIMENTOS PARA REALIZAÇÃO DE LICITAÇÕES ELETRÔNICAS TRADICIONAIS
-
----
+<br>
 
 # Primeira Etapa: Criar a contratação
 
 Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informações essenciais para a publicação do certame.
 
----
 
 **Passo 1:** Acesse o Portal de Compras do Governo Federal e clique em “Acesso ao Sistema”.
 
 ![adicionar descrição de imagem](Imagens/01-Acesso-ao-sistema.png)
 
----
 
 **Passo 2:** Escolha o perfil Governo e clique em “Entrar com Gov.br”.
 
 ![adicionar descrição de imagem](Imagens/02-Login.png)
 
----
+
 
 **Passo 3:** Na área de trabalho do usuário Governo, clique em “Novo Divulgação de Compras”.
 
 ![adicionar descrição de imagem](Imagens/03-Aesso-ao-Novo-DC.png)
 
----
+
 
 **Passo 4:** E em seguida clique em “+Criar”.
 
 ![adicionar descrição de imagem](Imagens/04-Criar-contratacao.png)
 
----
+
 
 **Passo 5:** Preencha todas as informações relacionadas ao processo e clique em “Concluir”.
 
@@ -61,28 +54,34 @@ Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informaç�
 
 <br>
 
-# Segunda Etapa: Divulgar a contratação
 
+# Segunda Etapa: Preenchendo informações da contratação
 Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informações essenciais para a publicação do certame.
 
----
+Aqui você vai ver como:
+- [Incluir dados básicos da contratação](02-dados-basicos.md)
+- [Incluir dados adicionais da contratação](03-dados-adicionais.md)
+- [Incluir itens, formar grupos e adicionar benefícios](04-itens-grupos.md)
+- [Incluir anexos](05-anexos.md)
+- [Incluir responsáveis](06-responsaveis.md)
 
-### Preenchimento de dados da contratação
+Veja todas elas abaixo.
+
+<br>
+
+# Preenchimento de dados da contratação
 
 **Passo 6:** Encontre a contratação desejada na aba **Contratações Minhas Uasg** e clique em “Editar”.
 
 ![Tela 06](Imagens/06-Editar-contratacao.png)
 
----
 
 **Passo 7:** Na aba **Dados Básicos da Contratação**, preencha o número do processo, o número de controle interno da UASG e, no **Tipo de contratação**, escolha a modalidade de licitação.
 ![Imagem das datas estimadas](Imagens/07-Modalidade.png)
 
-<div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
-  <strong>OBSERVAÇÃO:</strong> O número de controle interno da UASG tem por objetivo permitir que cada órgão tenha seu controle de processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é opcional.
-</div>
+!!! info "OBSERVAÇÃO"
+    O número de controle interno da UASG tem por objetivo permitir que cada órgão tenha seu controle de processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é opcional.
 
----
 
 **Passo 8:** Para definir o **Fundamento legal** da contratação, clique no ícone de lápis.
 
@@ -96,7 +95,6 @@ Detalhe os fundamentos legais disponíveis e, quando localizar a opção adequad
 
 ![Tela 10](Imagens/10-fundamento-legal.png)
 
----
 
 **Passo 9:** Em **Modo de disputa**, selecione a opção de acordo com a definição do edital – *aberto, fechado, aberto/fechado ou fechado/aberto*.
 
@@ -104,41 +102,36 @@ Detalhe os fundamentos legais disponíveis e, quando localizar a opção adequad
 
 Os modos de disputa exibidos em tela variam de acordo com a modalidade da licitação. 
 
----
 
 **Passo 10:** Em **Critério de julgamento**, o sistema trará a opção padrão (*default*) “Menor preço/maior desconto” por se tratar de pregão.
 
----
 
 **Passo 11:** Em **Forma de realização**, selecione entre “eletrônico” e “presencial”.
 
 ![Tela 12](Imagens/12-forma-de-realizacao.png)
 
-<div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
-  <strong>OBSERVAÇÃO:</strong> 
-  <br> - A opção <strong>Eletrônico</strong> encaminhará seu processo para a sala de disputa virtual, onde fornecedores interessados se conectarão ao seu processo de forma virtual.
-  <br> - A opção <strong>Presencial</strong> resultará na realização de sessão pública presencial e no posterior registro de resultados.
-</div>
-
----
+!!! info "Observação"
+    * A opção **Eletrônico** encaminhará seu processo para a sala de disputa virtual, onde fornecedores interessados se conectarão ao seu processo de forma virtual.
+    * A opção **Presencial** resultará na realização de sessão pública presencial e no posterior registro de resultados.
+    
 
 **Passo 12:** Selecione o **Tipo de objeto** a ser licitado na lista apresentada no sistema. Essa opção ajudará o sistema a definir seus prazos mínimos de publicidade.
 
 ![Tela 13](Imagens/13-tipo-de-objeto.png)
 
----
 
 **Passo 13:** Para obras e serviços de engenharia, o sistema apresentará o campo para informar o **Regime de execução** do contrato.
 
 ![Tela 14](Imagens/14-regime-de-execucao.png)
 
----
 
 **Passo 14:** Preencha os campos de **Categoria** e **Moeda da Compra**. As demais informações na tela correspondem às que foram inseridas na criação da contratação e poderão ser editadas caso seja necessário. 
 
 ![Tela 15](Imagens/15-dados-da-contratacao.png)
 
----
+<br>
+
+# Incluir dados adicionais da contratação
 
 **Passo 15:** Na aba **Dados adicionais da contratação**, preencha os dados do empenho para a publicação no Diário Oficial da União. Se necessário, consulte os dados de seu órgão para o preenchimento correto das informações.
 
@@ -158,7 +151,6 @@ Os modos de disputa exibidos em tela variam de acordo com a modalidade da licita
 
 Existem duas formas de incluir itens na sua contratação: diretamente pelo **Catálogo integrado** ou por meio do upload de uma **Planilha Eletrônica**.
 
----
 
 ## Opção A: Inclusão de Itens pelo Catálogo
 
@@ -179,13 +171,9 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
 
 ![Salvar unidade e valor unitário](Imagens/22-Inclusao-de-itens-Catalogo.png)
 
-<br>
+!!! tip "NOTA"
+    Repita os passos 18 a 21 para todos os itens de sua contratação.
 
-<div style="display: block; background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
-  <strong>NOTA:</strong> Repita os passos 18 a 21 para todos os itens de sua contratação.
-</div>
-
-<br>
 
 **Passo 22:** Depois de inseridos todos os itens, clique no carrinho localizado no canto superior direito.
 
@@ -201,7 +189,6 @@ Pronto. Seus itens foram adicionados a sua contratação.
 
 *Para finalizar a configuração de seus itens vá para o passo 28.*
 
----
 
 ## Opção B: Inclusão de Itens por Planilha Eletrônica
 
@@ -211,13 +198,10 @@ Siga os passos abaixo para adicionar itens usando uma planilha eletrônica.
 
 ![Upload de itens por planilha](Imagens/26-Inclusao-de-itens-Planilha.png)
 
-<br>
 
-<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> O sistema apresentará um link com modelo de planilha para ser seguido. É importante que esse modelo seja seguido para a correta importação dos itens.
-</div>
+!!! warning "ATENÇÃO"
+    O sistema apresentará um link com modelo de planilha para ser seguido. É importante que esse modelo seja seguido para a correta importação dos itens.
 
-<br>
 
 ![Modelo de planilha de itens](Imagens/27-Inclusao-de-itens-Planilha.png)
 
@@ -245,7 +229,6 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 ![Retornar para a tela da contratação](Imagens/33-Inclusao-de-itens-Planilha.png)
 
----
 
 ## Configuração dos Itens e Benefícios
 
@@ -275,7 +258,7 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 <br>
 
-<div style="display: block; background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
+<div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
   <strong>OBSERVAÇÃO:</strong> Pode ser incluído mais de um (1) local de entrega.
 </div>
 
@@ -283,13 +266,10 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 ![Múltiplos locais de entrega](Imagens/40-1-adicionar-mais-locais-de-entrega.png)
 
-<br>
 
-<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> Você também poderá atribuir um local de entrega a vários itens simultaneamente.
-</div>
+!!! warning "ATENÇÃO"
+    Você também poderá atribuir um local de entrega a vários itens simultaneamente.
 
-<br>
 
 **Passo 34:** Para isso, na página inicial dos itens da contratação, selecione os itens que têm o mesmo endereço de entrega, clicando na caixa ao lado da descrição dos itens e clique em “Adicionar Locais de Entrega”.
 
@@ -334,13 +314,10 @@ Selecionando a opção de **Benefício Cota Reservada**, o item em edição ser�
 
 ![Benefício Cota Reservada](Imagens/75-beneficios-da-compra.png)
 
-<br>
 
-<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar.
-</div>
+!!! warning "ATENÇÃO"
+    O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar.
 
-<br>
 
 Para definir o quantitativo de cada uma das cotas, retorne para a aba “Locais de Entrega”.
 
@@ -371,17 +348,10 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
 
 ![Exigência de conteúdo nacional](Imagens/85-beneficios-da-compra.png)
 
----
 
-<div style="display: block; background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
-  <strong>NOTA:</strong> Repita os passos acima para todos os itens de sua contratação.
-</div>
-
-<br>
-
-# Grupos, Anexos, Responsáveis e Publicação
-
----
+!!! tip "NOTA"
+    Repita os passos os passos acima para todos os itens de sua contratação.
+    
 
 ## Formação de Grupos de Itens
 
@@ -406,7 +376,7 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
 
 ![Configuração final do grupo](Imagens/52-Acoes-em-lote-grupo-Configuracao-final.png)
 
----
+<br>
 
 ## Inclusão de Anexos e Artefatos Vinculados
 
@@ -439,14 +409,10 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
 ![Documentos anexados](Imagens/61-Anexos.png)
 
 <br>
-
-<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong>  É necessário juntar, no mínimo, o edital aos arquivos anexos.
-</div>
+!!! warning "ATENÇÃO"
+    É necessário juntar, no mínimo, o edital aos arquivos anexos.
 
 <br>
-
----
 
 ## Inclusão de Responsáveis
 
@@ -460,17 +426,15 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
 
 ![Dados do responsável](Imagens/64-Responsaveis.png)
 
-<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> É necessário indicar, entre os responsáveis, um servidor como responsável pela publicação na Imprensa Nacional que deverá ser cadastrado com a Imprensa Nacional para essa função.
-</div>
+!!! warning "ATENÇÃO"
+    É necessário indicar, entre os responsáveis, um servidor como responsável pela publicação na Imprensa Nacional que deverá ser cadastrado com a Imprensa Nacional para essa função.
 
-<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> Devem ser inseridos, no mínimo, os seguintes responsáveis:<br>
-  &bull; <strong>Pregão:</strong> pregoeiro<br>
-  &bull; <strong>Concorrência e Concurso:</strong> Agente de contratação ou membro de comissão de contratação
-</div>
+!!! warning "ATENÇÃO"
+    Devem ser inseridos, no mínimo, os seguintes responsáveis:<br>
+    * **Pregão:** pregoeiro
+    * **Concorrência e Concurso:** Agente de contratação ou membro de comissão de contratação
 
----
+<br>
 
 ## Divulgação da Contratação
 
